@@ -1,0 +1,721 @@
+Image: 10_FhorFon_brightness_0.5.jpg
+  Face: x=192, y=233, width=90, height=112, confidence=0.99
+
+Image: 10_FhorFon_brightness_1.5.jpg
+  Face: x=191, y=236, width=91, height=111, confidence=1.00
+
+Image: 10_FhorFon_contrast_0.5.jpg
+  Face: x=191, y=234, width=90, height=110, confidence=1.00
+
+Image: 10_FhorFon_contrast_1.5.jpg
+  Face: x=192, y=234, width=90, height=111, confidence=1.00
+
+Image: 10_FhorFon_flipped.jpg
+  Face: x=356, y=233, width=87, height=112, confidence=1.00
+
+Image: 10_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 10_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 10_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 10_First_brightness_0.5.jpg
+  Face: x=196, y=210, width=104, height=135, confidence=1.00
+
+Image: 10_First_brightness_1.5.jpg
+  Face: x=196, y=208, width=103, height=136, confidence=1.00
+
+Image: 10_First_contrast_0.5.jpg
+  Face: x=195, y=209, width=103, height=132, confidence=1.00
+
+Image: 10_First_contrast_1.5.jpg
+  Face: x=197, y=212, width=101, height=129, confidence=1.00
+
+Image: 10_First_flipped.jpg
+  Face: x=335, y=209, width=101, height=135, confidence=1.00
+
+Image: 10_First_rotated_180.jpg
+  No faces detected
+
+Image: 10_First_rotated_270.jpg
+  No faces detected
+
+Image: 10_First_rotated_90.jpg
+  No faces detected
+
+Image: 11_FhorFon_brightness_0.5.jpg
+  Face: x=182, y=243, width=93, height=120, confidence=0.99
+
+Image: 11_FhorFon_brightness_1.5.jpg
+  Face: x=185, y=242, width=91, height=122, confidence=0.98
+
+Image: 11_FhorFon_contrast_0.5.jpg
+  Face: x=183, y=244, width=92, height=118, confidence=1.00
+
+Image: 11_FhorFon_contrast_1.5.jpg
+  Face: x=186, y=245, width=90, height=118, confidence=0.99
+
+Image: 11_FhorFon_flipped.jpg
+  Face: x=361, y=240, width=93, height=120, confidence=1.00
+
+Image: 11_FhorFon_rotated_180.jpg
+  Face: x=358, y=119, width=101, height=128, confidence=0.91
+
+Image: 11_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 11_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 11_First_brightness_0.5.jpg
+  Face: x=215, y=215, width=101, height=135, confidence=1.00
+
+Image: 11_First_brightness_1.5.jpg
+  Face: x=218, y=218, width=98, height=137, confidence=1.00
+
+Image: 11_First_contrast_0.5.jpg
+  Face: x=219, y=217, width=96, height=129, confidence=1.00
+
+Image: 11_First_contrast_1.5.jpg
+  Face: x=221, y=217, width=94, height=130, confidence=1.00
+
+Image: 11_First_flipped.jpg
+  Face: x=320, y=221, width=99, height=132, confidence=1.00
+
+Image: 11_First_rotated_180.jpg
+  No faces detected
+
+Image: 11_First_rotated_270.jpg
+  No faces detected
+
+Image: 11_First_rotated_90.jpg
+  No faces detected
+
+Image: 12_FhorFon_brightness_0.5.jpg
+  Face: x=180, y=255, width=93, height=120, confidence=1.00
+
+Image: 12_FhorFon_brightness_1.5.jpg
+  Face: x=179, y=256, width=91, height=118, confidence=1.00
+
+Image: 12_FhorFon_contrast_0.5.jpg
+  Face: x=177, y=255, width=94, height=119, confidence=1.00
+
+Image: 12_FhorFon_contrast_1.5.jpg
+  Face: x=180, y=256, width=92, height=118, confidence=1.00
+
+Image: 12_FhorFon_flipped.jpg
+  Face: x=366, y=252, width=94, height=124, confidence=1.00
+
+Image: 12_FhorFon_rotated_180.jpg
+  Face: x=360, y=102, width=110, height=139, confidence=0.89
+
+Image: 12_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 12_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 12_First_brightness_0.5.jpg
+  Face: x=226, y=215, width=97, height=130, confidence=1.00
+
+Image: 12_First_brightness_1.5.jpg
+  Face: x=227, y=216, width=97, height=134, confidence=1.00
+
+Image: 12_First_contrast_0.5.jpg
+  Face: x=226, y=214, width=98, height=129, confidence=1.00
+
+Image: 12_First_contrast_1.5.jpg
+  Face: x=228, y=214, width=93, height=130, confidence=1.00
+
+Image: 12_First_flipped.jpg
+  Face: x=315, y=217, width=98, height=132, confidence=0.99
+
+Image: 12_First_rotated_180.jpg
+  No faces detected
+
+Image: 12_First_rotated_270.jpg
+  No faces detected
+
+Image: 12_First_rotated_90.jpg
+  No faces detected
+
+Image: 13_FhorFon_brightness_0.5.jpg
+  Face: x=183, y=257, width=95, height=121, confidence=1.00
+
+Image: 13_FhorFon_brightness_1.5.jpg
+  Face: x=183, y=256, width=95, height=122, confidence=1.00
+
+Image: 13_FhorFon_contrast_0.5.jpg
+  Face: x=181, y=257, width=96, height=121, confidence=1.00
+
+Image: 13_FhorFon_contrast_1.5.jpg
+  Face: x=185, y=259, width=94, height=118, confidence=1.00
+
+Image: 13_FhorFon_flipped.jpg
+  Face: x=362, y=253, width=95, height=125, confidence=1.00
+
+Image: 13_FhorFon_rotated_180.jpg
+  Face: x=356, y=113, width=104, height=131, confidence=1.00
+
+Image: 13_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 13_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 14_FhorFon_brightness_0.5.jpg
+  Face: x=183, y=266, width=99, height=124, confidence=0.99
+
+Image: 14_FhorFon_brightness_1.5.jpg
+  Face: x=187, y=271, width=93, height=114, confidence=1.00
+
+Image: 14_FhorFon_contrast_0.5.jpg
+  Face: x=182, y=267, width=97, height=121, confidence=0.99
+
+Image: 14_FhorFon_contrast_1.5.jpg
+  Face: x=182, y=266, width=100, height=125, confidence=0.99
+
+Image: 14_FhorFon_flipped.jpg
+  Face: x=360, y=268, width=94, height=122, confidence=1.00
+
+Image: 14_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 14_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 14_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 15_FhorFon_brightness_0.5.jpg
+  Face: x=194, y=276, width=94, height=120, confidence=1.00
+
+Image: 15_FhorFon_brightness_1.5.jpg
+  Face: x=192, y=274, width=99, height=125, confidence=1.00
+
+Image: 15_FhorFon_contrast_0.5.jpg
+  Face: x=194, y=276, width=97, height=121, confidence=1.00
+
+Image: 15_FhorFon_contrast_1.5.jpg
+  Face: x=194, y=277, width=97, height=123, confidence=0.99
+
+Image: 15_FhorFon_flipped.jpg
+  Face: x=346, y=275, width=98, height=124, confidence=1.00
+
+Image: 15_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 15_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 15_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 16_FhorFon_brightness_0.5.jpg
+  Face: x=204, y=271, width=100, height=128, confidence=1.00
+
+Image: 16_FhorFon_brightness_1.5.jpg
+  Face: x=209, y=269, width=97, height=128, confidence=1.00
+
+Image: 16_FhorFon_contrast_0.5.jpg
+  Face: x=206, y=272, width=98, height=123, confidence=1.00
+
+Image: 16_FhorFon_contrast_1.5.jpg
+  Face: x=204, y=274, width=99, height=124, confidence=1.00
+
+Image: 16_FhorFon_flipped.jpg
+  Face: x=333, y=270, width=100, height=127, confidence=0.99
+
+Image: 16_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 16_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 16_FhorFon_rotated_90.jpg
+  Face: x=265, y=324, width=116, height=116, confidence=0.93
+
+Image: 17_FhorFon_brightness_0.5.jpg
+  Face: x=219, y=267, width=95, height=119, confidence=1.00
+
+Image: 17_FhorFon_brightness_1.5.jpg
+  Face: x=223, y=271, width=91, height=117, confidence=1.00
+
+Image: 17_FhorFon_contrast_0.5.jpg
+  Face: x=220, y=269, width=94, height=120, confidence=1.00
+
+Image: 17_FhorFon_contrast_1.5.jpg
+  Face: x=220, y=268, width=96, height=125, confidence=0.99
+
+Image: 17_FhorFon_flipped.jpg
+  Face: x=322, y=269, width=97, height=120, confidence=1.00
+
+Image: 17_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 17_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 17_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 18_FhorFon_brightness_0.5.jpg
+  Face: x=223, y=264, width=94, height=120, confidence=1.00
+
+Image: 18_FhorFon_brightness_1.5.jpg
+  Face: x=227, y=262, width=91, height=124, confidence=1.00
+
+Image: 18_FhorFon_contrast_0.5.jpg
+  Face: x=222, y=267, width=93, height=117, confidence=1.00
+
+Image: 18_FhorFon_contrast_1.5.jpg
+  Face: x=226, y=267, width=91, height=117, confidence=1.00
+
+Image: 18_FhorFon_flipped.jpg
+  Face: x=319, y=262, width=98, height=123, confidence=1.00
+
+Image: 18_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 18_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 18_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 1_FhorFon_brightness_0.5.jpg
+  Face: x=197, y=241, width=92, height=121, confidence=1.00
+
+Image: 1_FhorFon_brightness_1.5.jpg
+  Face: x=198, y=242, width=91, height=120, confidence=0.99
+
+Image: 1_FhorFon_contrast_0.5.jpg
+  Face: x=195, y=240, width=93, height=120, confidence=1.00
+
+Image: 1_FhorFon_contrast_1.5.jpg
+  Face: x=200, y=244, width=88, height=118, confidence=1.00
+
+Image: 1_FhorFon_flipped.jpg
+  Face: x=349, y=239, width=93, height=124, confidence=1.00
+
+Image: 1_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 1_FhorFon_rotated_270.jpg
+  Face: x=124, y=183, width=131, height=119, confidence=0.83
+
+Image: 1_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 1_First_brightness_0.5.jpg
+  Face: x=197, y=203, width=100, height=131, confidence=1.00
+
+Image: 1_First_brightness_1.5.jpg
+  Face: x=198, y=204, width=97, height=130, confidence=1.00
+
+Image: 1_First_contrast_0.5.jpg
+  Face: x=196, y=203, width=99, height=130, confidence=1.00
+
+Image: 1_First_contrast_1.5.jpg
+  Face: x=198, y=207, width=95, height=127, confidence=1.00
+
+Image: 1_First_flipped.jpg
+  Face: x=342, y=204, width=97, height=130, confidence=1.00
+
+Image: 1_First_rotated_180.jpg
+  No faces detected
+
+Image: 1_First_rotated_270.jpg
+  No faces detected
+
+Image: 1_First_rotated_90.jpg
+  No faces detected
+
+Image: 2_FhorFon_brightness_0.5.jpg
+  Face: x=203, y=243, width=90, height=118, confidence=1.00
+
+Image: 2_FhorFon_brightness_1.5.jpg
+  Face: x=206, y=241, width=91, height=123, confidence=0.99
+
+Image: 2_FhorFon_contrast_0.5.jpg
+  Face: x=203, y=243, width=90, height=118, confidence=1.00
+
+Image: 2_FhorFon_contrast_1.5.jpg
+  Face: x=205, y=243, width=90, height=120, confidence=1.00
+
+Image: 2_FhorFon_flipped.jpg
+  Face: x=342, y=241, width=93, height=122, confidence=0.99
+
+Image: 2_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 2_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 2_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 2_First_brightness_0.5.jpg
+  Face: x=203, y=201, width=100, height=131, confidence=1.00
+
+Image: 2_First_brightness_1.5.jpg
+  Face: x=205, y=203, width=98, height=131, confidence=1.00
+
+Image: 2_First_contrast_0.5.jpg
+  Face: x=205, y=205, width=98, height=126, confidence=1.00
+
+Image: 2_First_contrast_1.5.jpg
+  Face: x=205, y=207, width=95, height=126, confidence=1.00
+
+Image: 2_First_flipped.jpg
+  Face: x=334, y=202, width=99, height=132, confidence=1.00
+
+Image: 2_First_rotated_180.jpg
+  No faces detected
+
+Image: 2_First_rotated_270.jpg
+  No faces detected
+
+Image: 2_First_rotated_90.jpg
+  No faces detected
+
+Image: 3_FhorFon_brightness_0.5.jpg
+  Face: x=206, y=240, width=92, height=117, confidence=1.00
+
+Image: 3_FhorFon_brightness_1.5.jpg
+  Face: x=209, y=240, width=89, height=117, confidence=1.00
+
+Image: 3_FhorFon_contrast_0.5.jpg
+  Face: x=207, y=241, width=91, height=114, confidence=1.00
+
+Image: 3_FhorFon_contrast_1.5.jpg
+  Face: x=210, y=243, width=88, height=115, confidence=1.00
+
+Image: 3_FhorFon_flipped.jpg
+  Face: x=341, y=239, width=89, height=118, confidence=1.00
+
+Image: 3_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 3_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 3_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 3_First_brightness_0.5.jpg
+  Face: x=220, y=204, width=94, height=126, confidence=1.00
+
+Image: 3_First_brightness_1.5.jpg
+  Face: x=222, y=201, width=92, height=132, confidence=1.00
+
+Image: 3_First_contrast_0.5.jpg
+  Face: x=221, y=199, width=97, height=130, confidence=1.00
+
+Image: 3_First_contrast_1.5.jpg
+  Face: x=220, y=203, width=96, height=132, confidence=1.00
+
+Image: 3_First_flipped.jpg
+  Face: x=321, y=202, width=96, height=130, confidence=0.99
+
+Image: 3_First_rotated_180.jpg
+  No faces detected
+
+Image: 3_First_rotated_270.jpg
+  No faces detected
+
+Image: 3_First_rotated_90.jpg
+  No faces detected
+
+Image: 4_FhorFon_brightness_0.5.jpg
+  Face: x=209, y=238, width=89, height=116, confidence=1.00
+
+Image: 4_FhorFon_brightness_1.5.jpg
+  Face: x=211, y=237, width=87, height=117, confidence=1.00
+
+Image: 4_FhorFon_contrast_0.5.jpg
+  No faces detected
+
+Image: 4_FhorFon_contrast_1.5.jpg
+  Face: x=212, y=241, width=86, height=113, confidence=1.00
+
+Image: 4_FhorFon_flipped.jpg
+  Face: x=340, y=239, width=86, height=115, confidence=1.00
+
+Image: 4_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 4_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 4_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 4_First_brightness_0.5.jpg
+  Face: x=224, y=196, width=91, height=115, confidence=1.00
+
+Image: 4_First_brightness_1.5.jpg
+  Face: x=227, y=198, width=89, height=111, confidence=1.00
+
+Image: 4_First_contrast_0.5.jpg
+  No faces detected
+
+Image: 4_First_contrast_1.5.jpg
+  Face: x=224, y=198, width=90, height=114, confidence=1.00
+
+Image: 4_First_flipped.jpg
+  No faces detected
+
+Image: 4_First_rotated_180.jpg
+  No faces detected
+
+Image: 4_First_rotated_270.jpg
+  No faces detected
+
+Image: 4_First_rotated_90.jpg
+  No faces detected
+
+Image: 5_FhorFon_brightness_0.5.jpg
+  Face: x=214, y=235, width=87, height=112, confidence=1.00
+
+Image: 5_FhorFon_brightness_1.5.jpg
+  Face: x=215, y=236, width=88, height=110, confidence=1.00
+
+Image: 5_FhorFon_contrast_0.5.jpg
+  Face: x=214, y=235, width=86, height=110, confidence=1.00
+
+Image: 5_FhorFon_contrast_1.5.jpg
+  Face: x=216, y=238, width=86, height=110, confidence=1.00
+
+Image: 5_FhorFon_flipped.jpg
+  Face: x=343, y=234, width=82, height=114, confidence=0.99
+
+Image: 5_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 5_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 5_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 5_First_brightness_0.5.jpg
+  Face: x=210, y=193, width=95, height=112, confidence=1.00
+
+Image: 5_First_brightness_1.5.jpg
+  Face: x=216, y=198, width=89, height=106, confidence=1.00
+
+Image: 5_First_contrast_0.5.jpg
+  Face: x=211, y=196, width=94, height=112, confidence=1.00
+
+Image: 5_First_contrast_1.5.jpg
+  Face: x=212, y=195, width=96, height=115, confidence=0.98
+
+Image: 5_First_flipped.jpg
+  Face: x=335, y=197, width=95, height=109, confidence=1.00
+
+Image: 5_First_rotated_180.jpg
+  No faces detected
+
+Image: 5_First_rotated_270.jpg
+  No faces detected
+
+Image: 5_First_rotated_90.jpg
+  No faces detected
+
+Image: 6_FhorFon_brightness_0.5.jpg
+  Face: x=203, y=230, width=87, height=111, confidence=0.99
+
+Image: 6_FhorFon_brightness_1.5.jpg
+  Face: x=204, y=230, width=86, height=111, confidence=1.00
+
+Image: 6_FhorFon_contrast_0.5.jpg
+  Face: x=202, y=231, width=86, height=107, confidence=0.99
+
+Image: 6_FhorFon_contrast_1.5.jpg
+  Face: x=208, y=232, width=82, height=107, confidence=1.00
+
+Image: 6_FhorFon_flipped.jpg
+  Face: x=346, y=233, width=87, height=108, confidence=0.99
+
+Image: 6_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 6_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 6_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 6_First_brightness_0.5.jpg
+  Face: x=197, y=197, width=91, height=112, confidence=0.99
+
+Image: 6_First_brightness_1.5.jpg
+  No faces detected
+
+Image: 6_First_contrast_0.5.jpg
+  Face: x=200, y=195, width=90, height=112, confidence=0.98
+
+Image: 6_First_contrast_1.5.jpg
+  Face: x=188, y=195, width=102, height=118, confidence=1.00
+
+Image: 6_First_flipped.jpg
+  Face: x=350, y=192, width=101, height=117, confidence=1.00
+
+Image: 6_First_rotated_180.jpg
+  No faces detected
+
+Image: 6_First_rotated_270.jpg
+  No faces detected
+
+Image: 6_First_rotated_90.jpg
+  No faces detected
+
+Image: 7_FhorFon_brightness_0.5.jpg
+  Face: x=204, y=230, width=86, height=107, confidence=1.00
+
+Image: 7_FhorFon_brightness_1.5.jpg
+  Face: x=206, y=229, width=83, height=108, confidence=1.00
+  Face: x=369, y=350, width=21, height=32, confidence=0.87
+
+Image: 7_FhorFon_contrast_0.5.jpg
+  Face: x=204, y=231, width=86, height=105, confidence=1.00
+
+Image: 7_FhorFon_contrast_1.5.jpg
+  Face: x=204, y=231, width=84, height=109, confidence=1.00
+
+Image: 7_FhorFon_flipped.jpg
+  Face: x=346, y=230, width=88, height=110, confidence=0.98
+
+Image: 7_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 7_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 7_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 7_First_brightness_0.5.jpg
+  Face: x=189, y=198, width=90, height=115, confidence=0.99
+
+Image: 7_First_brightness_1.5.jpg
+  Face: x=184, y=198, width=97, height=120, confidence=1.00
+
+Image: 7_First_contrast_0.5.jpg
+  Face: x=184, y=197, width=96, height=117, confidence=1.00
+
+Image: 7_First_contrast_1.5.jpg
+  Face: x=185, y=201, width=93, height=115, confidence=1.00
+
+Image: 7_First_flipped.jpg
+  Face: x=359, y=197, width=95, height=118, confidence=1.00
+
+Image: 7_First_rotated_180.jpg
+  No faces detected
+
+Image: 7_First_rotated_270.jpg
+  No faces detected
+
+Image: 7_First_rotated_90.jpg
+  No faces detected
+
+Image: 8_FhorFon_brightness_0.5.jpg
+  Face: x=202, y=229, width=90, height=109, confidence=1.00
+
+Image: 8_FhorFon_brightness_1.5.jpg
+  Face: x=202, y=231, width=89, height=107, confidence=1.00
+
+Image: 8_FhorFon_contrast_0.5.jpg
+  Face: x=201, y=229, width=90, height=108, confidence=1.00
+
+Image: 8_FhorFon_contrast_1.5.jpg
+  Face: x=203, y=232, width=89, height=107, confidence=1.00
+
+Image: 8_FhorFon_flipped.jpg
+  Face: x=346, y=231, width=90, height=108, confidence=0.99
+
+Image: 8_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 8_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 8_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 8_First_brightness_0.5.jpg
+  Face: x=183, y=207, width=92, height=127, confidence=0.99
+
+Image: 8_First_brightness_1.5.jpg
+  Face: x=177, y=210, width=95, height=125, confidence=1.00
+
+Image: 8_First_contrast_0.5.jpg
+  Face: x=181, y=206, width=93, height=125, confidence=0.99
+
+Image: 8_First_contrast_1.5.jpg
+  Face: x=180, y=209, width=92, height=121, confidence=0.99
+
+Image: 8_First_flipped.jpg
+  Face: x=363, y=208, width=94, height=126, confidence=1.00
+
+Image: 8_First_rotated_180.jpg
+  No faces detected
+
+Image: 8_First_rotated_270.jpg
+  No faces detected
+
+Image: 8_First_rotated_90.jpg
+  No faces detected
+
+Image: 9_FhorFon_brightness_0.5.jpg
+  Face: x=195, y=230, width=89, height=112, confidence=1.00
+
+Image: 9_FhorFon_brightness_1.5.jpg
+  Face: x=195, y=233, width=92, height=115, confidence=1.00
+
+Image: 9_FhorFon_contrast_0.5.jpg
+  Face: x=195, y=230, width=89, height=110, confidence=1.00
+
+Image: 9_FhorFon_contrast_1.5.jpg
+  Face: x=196, y=235, width=89, height=109, confidence=1.00
+
+Image: 9_FhorFon_flipped.jpg
+  Face: x=352, y=232, width=88, height=111, confidence=1.00
+
+Image: 9_FhorFon_rotated_180.jpg
+  No faces detected
+
+Image: 9_FhorFon_rotated_270.jpg
+  No faces detected
+
+Image: 9_FhorFon_rotated_90.jpg
+  No faces detected
+
+Image: 9_First_brightness_0.5.jpg
+  Face: x=182, y=214, width=98, height=130, confidence=1.00
+
+Image: 9_First_brightness_1.5.jpg
+  Face: x=183, y=213, width=96, height=131, confidence=0.99
+
+Image: 9_First_contrast_0.5.jpg
+  Face: x=181, y=215, width=99, height=128, confidence=1.00
+
+Image: 9_First_contrast_1.5.jpg
+  Face: x=181, y=213, width=97, height=133, confidence=0.98
+
+Image: 9_First_flipped.jpg
+  Face: x=356, y=211, width=98, height=134, confidence=1.00
+
+Image: 9_First_rotated_180.jpg
+  No faces detected
+
+Image: 9_First_rotated_270.jpg
+  No faces detected
+
+Image: 9_First_rotated_90.jpg
+  No faces detected
+
